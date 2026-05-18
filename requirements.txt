@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+tensorflow
+ultralytics
+numpy
+scikit-learn
+SpeechRecognition
+pyttsx3
+streamlit-autorefresh
+pyaudio
